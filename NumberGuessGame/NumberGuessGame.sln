@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessGame", "NumberGuessGame\NumberGuessGame.csproj", "{A47FE3DF-545D-46E0-9EAC-B6488E38099A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B} = {1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessGameService", "NumberGuessGameService\NumberGuessGameService.csproj", "{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47FE3DF-545D-46E0-9EAC-B6488E38099A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47FE3DF-545D-46E0-9EAC-B6488E38099A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47FE3DF-545D-46E0-9EAC-B6488E38099A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47FE3DF-545D-46E0-9EAC-B6488E38099A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E60514-2A24-4131-81E8-BF4E13A908AD}
+	EndGlobalSection
+EndGlobal

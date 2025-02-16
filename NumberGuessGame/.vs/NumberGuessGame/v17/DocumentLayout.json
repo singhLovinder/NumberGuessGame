@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47FE3DF-545D-46E0-9EAC-B6488E38099A}|NumberGuessGame\\NumberGuessGame.csproj|f:\\chitkara assignments\\software integration\\numberguessgame_all\\numberguessgame\\numberguessgame\\numberguessgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47FE3DF-545D-46E0-9EAC-B6488E38099A}|NumberGuessGame\\NumberGuessGame.csproj|solutionrelative:numberguessgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47FE3DF-545D-46E0-9EAC-B6488E38099A}|NumberGuessGame\\NumberGuessGame.csproj|f:\\chitkara assignments\\software integration\\numberguessgame_all\\numberguessgame\\numberguessgame\\numberguessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47FE3DF-545D-46E0-9EAC-B6488E38099A}|NumberGuessGame\\NumberGuessGame.csproj|solutionrelative:numberguessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}|NumberGuessGameService\\NumberGuessGameService.csproj|f:\\chitkara assignments\\software integration\\numberguessgame_all\\numberguessgame\\numberguessgame\\numberguessgameservice\\inumberguessgameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEBEE99-06F5-4DA4-8FAE-A032EC3E181B}|NumberGuessGameService\\NumberGuessGameService.csproj|solutionrelative:numberguessgameservice\\inumberguessgameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47FE3DF-545D-46E0-9EAC-B6488E38099A}|NumberGuessGame\\NumberGuessGame.csproj|f:\\chitkara assignments\\software integration\\numberguessgame_all\\numberguessgame\\numberguessgame\\numberguessgame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47FE3DF-545D-46E0-9EAC-B6488E38099A}|NumberGuessGame\\NumberGuessGame.csproj|solutionrelative:numberguessgame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NumberGuessGame\\Form1.Designer.cs",
+              "ToolTip": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGame\\Form1.Designer.cs",
+              "RelativeToolTip": "NumberGuessGame\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:23:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INumberGuessGameService.cs",
+              "DocumentMoniker": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGameService\\INumberGuessGameService.cs",
+              "RelativeDocumentMoniker": "NumberGuessGameService\\INumberGuessGameService.cs",
+              "ToolTip": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGameService\\INumberGuessGameService.cs",
+              "RelativeToolTip": "NumberGuessGameService\\INumberGuessGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:23:21.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGame\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "NumberGuessGame\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGame\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "NumberGuessGame\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:22:59.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGame\\Program.cs",
+              "RelativeDocumentMoniker": "NumberGuessGame\\Program.cs",
+              "ToolTip": "F:\\Chitkara Assignments\\software integration\\NumberGuessGame_All\\NumberGuessGame\\NumberGuessGame\\NumberGuessGame\\Program.cs",
+              "RelativeToolTip": "NumberGuessGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:22:48.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\E5670267\source\repos\NumberGuessGame\NumberGuessGameService\bin\NumberGuessGameService.dll.config
+C:\Users\E5670267\source\repos\NumberGuessGame\NumberGuessGameService\bin\NumberGuessGameService.dll
+C:\Users\E5670267\source\repos\NumberGuessGame\NumberGuessGameService\bin\NumberGuessGameService.pdb
+C:\Users\E5670267\source\repos\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.csproj.AssemblyReference.cache
+C:\Users\E5670267\source\repos\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.csproj.CoreCompileInputs.cache
+C:\Users\E5670267\source\repos\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.dll
+C:\Users\E5670267\source\repos\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.pdb
+F:\Chitkara Assignments\software integration\NumberGuessGame_All\NumberGuessGame\NumberGuessGame\NumberGuessGameService\bin\NumberGuessGameService.dll.config
+F:\Chitkara Assignments\software integration\NumberGuessGame_All\NumberGuessGame\NumberGuessGame\NumberGuessGameService\bin\NumberGuessGameService.dll
+F:\Chitkara Assignments\software integration\NumberGuessGame_All\NumberGuessGame\NumberGuessGame\NumberGuessGameService\bin\NumberGuessGameService.pdb
+F:\Chitkara Assignments\software integration\NumberGuessGame_All\NumberGuessGame\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.csproj.AssemblyReference.cache
+F:\Chitkara Assignments\software integration\NumberGuessGame_All\NumberGuessGame\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.csproj.CoreCompileInputs.cache
+F:\Chitkara Assignments\software integration\NumberGuessGame_All\NumberGuessGame\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.dll
+F:\Chitkara Assignments\software integration\NumberGuessGame_All\NumberGuessGame\NumberGuessGame\NumberGuessGameService\obj\Debug\NumberGuessGameService.pdb
